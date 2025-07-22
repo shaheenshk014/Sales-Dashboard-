@@ -43,3 +43,6 @@ Category filter for specific views.
 🛠️ Tools & Technologies Used
 -Power BI (Desktop)
 -DAX for calculations and measures
+
+Screenshots/Demos:
+The Sales Dashboard image:
