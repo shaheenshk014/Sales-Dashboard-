@@ -45,4 +45,4 @@ Category filter for specific views.
 -DAX for calculations and measures
 
 Screenshots/Demos:
-The Sales Dashboard image:
+The Sales Dashboard image:(https://github.com/shaheenshk014/Sales-Dashboard-/blob/main/dashboard.png)
